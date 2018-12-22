@@ -4,8 +4,8 @@ Food allergy is usually difficult to diagnose in early life, and the inability t
 
 
 
-# Dataset: 
-In order to evaluate our proposed model, we used the longitudinal gut microbiome profiles from the DIABIMMUNE project (https://pubs.broadinstitute.org/diabimmune/three-country-cohort), a study that aimed to characterize host-microbe immune interactions contributing to autoimmunity and allergy.
+# Dataset: we
+We used the longitudinal gut microbiome profiles from the DIABIMMUNE project (https://pubs.broadinstitute.org/diabimmune/three-country-cohort), a study that aimed to characterize host-microbe immune interactions contributing to autoimmunity and allergy.
 
 
 
